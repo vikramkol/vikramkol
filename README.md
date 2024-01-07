@@ -1,3 +1,5 @@
+
+![logo](https://github.com/vikramkol/vikramkol/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Vikram kol</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
